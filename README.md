@@ -1,6 +1,8 @@
 ## Snake eating My Contribution Graph
 ![snake gif](https://github.com/yudhasaputra/yudhasaputra/blob/output/github-contribution-grid-snake.gif)
 
+![](https://komarev.com/ghpvc/?username=yyudhasaputra&label=PROFILE+VIEWS)
+
 ## Total Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yudhasaputra&" alt="yudhasaputra" /></p>
 
